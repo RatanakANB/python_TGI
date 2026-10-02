@@ -1,3 +1,4 @@
 All learning out come has complete with python files note Jupyter formart. 
 
-<img width="1451" height="1286" alt="Screenshot 2026-08-22 at 13 12 39" src="https://github.com/user-attachments/assets/e63d74a6-e0a2-4760-957e-1ef7ab0cdf87" />
+
+<img width="1878" height="1362" alt="Screenshot 2026-10-03 at 00 52 00" src="https://github.com/user-attachments/assets/397413f1-5546-4935-8850-86ed01a73b70" />
